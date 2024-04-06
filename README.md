@@ -1,8 +1,9 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
 ### Date: 
-
-
-
+```
+Developed by: M.vivek reddy
+Reg No: 212221240030
+```
 ### AIM:
 To Implementat an Auto Regressive Model using Python
 ### ALGORITHM:
@@ -77,9 +78,23 @@ plt.show()
 ```
 
 ### OUTPUT:
+Given Data
+
+![image](https://github.com/Vivekreddy8360/TSA_EXP7/assets/94525701/38937dc5-26f9-497e-91bf-d8512550f76f)
+
+Augmented Dickey-Fuller test
+
+![image](https://github.com/Vivekreddy8360/TSA_EXP7/assets/94525701/b4947f53-e066-4fca-b841-9332adb4a242)
+
+PACF-ACF
+![image](https://github.com/Vivekreddy8360/TSA_EXP7/assets/94525701/95134c4e-add9-4f8f-bd62-53adb76f60d0)
 
 
-
+![image](https://github.com/Vivekreddy8360/TSA_EXP7/assets/94525701/2cf7f312-ced4-440a-a32c-386373bf55ce)
+Mean Squared Error
+![image](https://github.com/Vivekreddy8360/TSA_EXP7/assets/94525701/ebbe6430-f9aa-40cf-9fed-8f9f64218430)
+PREDICTION:
+![image](https://github.com/Vivekreddy8360/TSA_EXP7/assets/94525701/835be36f-d4da-4e49-ad52-c093e5b7c2a1)
 
 ### RESULT:
 Thus we have successfully implemented the auto regression function using python.
