@@ -1,8 +1,8 @@
-# Ex.No: 07                                       AUTO REGRESSIVE MODEL
+[# Ex.No: 07                                       AUTO REGRESSIVE MODEL
 ### Date: 
 ```
-Developed by: M.vivek reddy
-Reg No: 212221240030
+Developed by: hanumanth rao
+Reg No: 212221240016
 ```
 ### AIM:
 To Implementat an Auto Regressive Model using Python
@@ -98,3 +98,4 @@ PREDICTION:
 
 ### RESULT:
 Thus we have successfully implemented the auto regression function using python.
+](https://github.com/Hanumanth26/TSA_EXP8.git)
