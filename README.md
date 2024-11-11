@@ -1,5 +1,5 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
+### Date:07:10:24 
 
 
 
